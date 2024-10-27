@@ -7,8 +7,8 @@ A simple Python implementation of Chain of Thought decoding without prompting fo
 
 ```bash
 # Clone the repository
-git clone [your-repo-url]
-cd [your-repo-name]
+git clone https://github.com/eab0619/CoT-Without-Prompting.git
+cd CoT-Without-Prompting
 
 # Install dependencies
 pip install -r requirements.txt
